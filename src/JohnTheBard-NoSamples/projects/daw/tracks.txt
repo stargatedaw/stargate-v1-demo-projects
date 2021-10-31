@@ -1,0 +1,33 @@
+0|0|0|0|Main
+1|0|0|1|Chords 1
+2|0|0|2|Chords 2
+3|0|0|3|Chords 3
+4|0|0|4|Chords 4
+5|0|0|5|Chords 5
+6|0|0|6|Lead 1
+7|0|0|7|Lead 2
+8|0|0|8|Snare
+9|0|0|9|Kick Synth
+10|0|0|10|SC
+11|0|0|11|SCBus
+12|0|0|12|Synth Noise Build
+13|0|0|13|Synth Crash Big
+14|0|0|14|Synth Crash Small
+15|0|0|15|Synth Hat 1
+16|0|0|16|Bass 1
+17|0|0|17|Bass 2
+18|0|0|18|Sub Bass
+19|0|0|19|Delay Bus
+20|0|0|20|Stereo Verb Bus
+21|0|0|21|Track 7
+22|0|0|22|Track 8
+23|0|0|23|Track 27
+24|0|0|24|Track 34
+25|0|0|25|Old Kick
+26|0|0|26|Old Top Drums
+27|0|0|27|Old Noise Builds
+28|0|0|28|Old Small Crash
+29|0|0|29|Old Verb Splitter
+30|0|0|30|Old Verb Bus L
+31|0|0|31|Old Verb Bus R
+\

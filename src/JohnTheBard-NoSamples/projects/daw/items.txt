@@ -1,0 +1,48 @@
+0|Chords 1-1
+1|Audio Output-1
+2|Top Loop 1
+3|SC-1
+4|Kick Loop
+5|Bass 1-1
+6|Chords 1-2
+7|Chords 1-3
+8|Chords 1-4-1
+9|Chords 1-4-2
+10|Noise Builds-1aa
+11|Top Loop 1-1
+12|Top Loop 1-2
+13|Top Loop 1-3
+14|Top Loop 1-4
+15|Top Loop 1-5
+16|Top Loop 1-6
+17|Top Loop 1-7
+18|Top Loop 1-8
+19|Top Loop 1-9-1
+20|Small Crash-1
+21|Chords 1-4-3
+22|Bass 2-1
+23|Chords 1-4-4
+24|Chords 1-4-5
+25|Bass 2-2
+26|Bass 2-3
+27|SC-2
+28|Kick Synth-1
+29|Kick Synth-2
+30|Chords 1-4-6
+31|Chords 1-4-7
+32|Chords 1-4-8
+33|Track 34-1
+34|Chords 1-4-9
+35|Top Loop 1-10
+36|Lead 1-1
+37|Chords 1-4
+38|Chords 1-4-10
+39|Chords 1-4-11
+40|Snare-1
+41|Hat 1-1
+42|Hat 1-2
+43|Synth Crash Small-1
+44|Synth Noise Build-1
+45|SC-3-1
+46|SC-3
+\
