@@ -1,0 +1,4 @@
+# Project backups
+*.tar.bz2
+# vim swap files
+*.swp
