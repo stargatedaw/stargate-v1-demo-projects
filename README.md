@@ -22,13 +22,17 @@ Simply run `make` to create the zip file
 
 # Adding projects
 ## Requirements
-The project must not contain any samples from proprietary sample packs.
-Unfortunately, most sample packs do not have solid licensing schemes that
-account for this use-case.  Ideally, synthesize and/or record your own samples
-in Stargate DAW, then render the samples to file and use those, but we realize
-that it's not always feasible to do so.  We do not have the means to validate
-the licensing of all of your samples, but we will remove projects if a sample
-library vendor requests that we do so.
+The project must not contain any samples from sample packs unless the
+sample pack has a public domain license, or a license that explicity
+allows redistribution without royalties or attribution.
+[If you need samples with a suitable license, use our sample pack.](
+  https://github.com/stargateaudio/stargate-sample-pack
+)
+Unfortunately, most sample packs (commercial or free) do not have solid
+licensing schemes that account for the use-case of redistributing samples.
+We do not have the means to validate the licensing on every sample you use,
+but we will respond to takedown requests if the requestor can prove that they
+own the copyright to the sample.
 
 Projects must be a reasonable size.  You can include a vocal you recorded or
 otherwise have the rights to distribute, but a song consisting of 24 recorded
