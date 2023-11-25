@@ -8,7 +8,10 @@ DESTDIR ?=
 SG_DIR = $(DESTDIR)$(PREFIX)/lib/$(MAJOR)
 
 all:
-	zip -r $(MAJOR)-$(MINOR).zip src/*
+	rm -rf $(MAJOR)-$(MINOR)/
+	cp -r src $(MAJOR)-$(MINOR)
+	zip -r $(MAJOR)-$(MINOR).zip $(MAJOR)-$(MINOR)
+	rm -rf $(MAJOR)-$(MINOR)/
 
 clean:
 	rm -f *.zip
